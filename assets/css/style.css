@@ -88,7 +88,7 @@
 }
 
 .section-1{
-    /* background-image: url(..//image); */
+    background-image: url(../images/1.jpg);
    height: 600px;
    color: white;
    position: relative;
