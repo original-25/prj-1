@@ -88,7 +88,7 @@
 }
 
 .section-1{
-    background-image: url(/mini-prj/assets/images/1.jpg);
+    background-image: url(../mini-prj/assets/images/1.jpg);
    height: 600px;
    color: white;
    position: relative;
